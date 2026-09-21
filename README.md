@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working as a software engineer at Paytm. I am involved in iOS frontend development for the Payments Gateway page. Looking to contribute in open source for the same. Moreover, I am trying to upskill my knowledge of full-stack development as well. <br>
+Currently working as a Sr. software engineer at Paytm. I am involved in iOS frontend development for the International team. I previously worked in the Payments Gateway page. Looking to contribute in open source for the same. Moreover, I am trying to upskill my knowledge of other tech stack as well. <br>
 
 
 ## 🌐 Socials:
